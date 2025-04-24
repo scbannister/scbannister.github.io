@@ -11,35 +11,41 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Music, Durham University, 2020
+* M.A in Applied Psychology of Music, University of Leeds, 2015
+* B.A in Music Technology, Lancaster University, 2014
 
-Work experience
+Employment
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2022 - 2025: Postdoctoral Research Fellow
+  * University of Leeds
+  * Duties include: Working with hearing aid users to run perceptual studies; support open machine learning challenges; write scientific papers and disseminate findings at international conferences
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2021 - 2022: Teaching Fellow in Music Psychology
+  * University of Leeds
+  * Duties included: Leadership of BA Music and Music Psychology degree; undergraduate and postgraduate dissertation supervision
+
+* 2019 - 2021: Research Governance Support Officer
+  * University of Manchester
+  * Duties included: Internal support and review of Health Research Authority and NHS Ethics applications for research projects
+
+* 2017 - 2019: Graduate Teaching Assistant
+  * Durham University
+  * Duties included: Teaching across undergraduate modules on music psychology topics
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Experimental design
+* Literature reviewing
+* Data analysis
+  * Linear mixed effects models
+  * Data visualisation
+  * Thematic analysis
+* Audio signal processing
+* Programming
+  * R
+  * Python
 
 Publications
 ======
@@ -58,7 +64,3 @@ Teaching
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
