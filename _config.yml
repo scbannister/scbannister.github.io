@@ -12,7 +12,7 @@ site_theme               : "default"
 title                    : "Scott Bannister"
 title_separator          : "-"
 name                     : &name "Scott Bannister"
-description              : &description "Postdoctoral Research Fellow @ University of Leeds"
+description              : &description "Music and Psychology Researcher"
 url                      : https://scbannister.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "scbannister.github.io"
@@ -25,8 +25,8 @@ author:
   avatar           : "profile.png"
   name             : "Dr Scott Bannister"
   pronouns         : # example: "she/her"  
-  bio              : "Postdoctoral Research Fellow - Music Psychology"
-  location         : "Manchester / Leeds, UK"
+  bio              : "Music and Psychology Researcher, expert in emotion"
+  location         : "UK"
   employer         : "University of Leeds"
   uri              : # URL
   email            : "S.C.Bannister@leeds.ac.uk" 
@@ -78,7 +78,7 @@ author:
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
   books:
-    title: 'Books'
+    title: 'Book Chapters'
   manuscripts:
     title: 'Journal Articles'    
   conferences:
