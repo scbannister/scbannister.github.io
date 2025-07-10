@@ -1,6 +1,7 @@
 ---
 title: "The first Cadenza challenges: Using machine learning competitions to improve music for listeners with a loss"
 collection: publications
+category: manuscripts
 permalink: /publication/2025-06-10-roa-dabike-etal-2025
 date: 2025-06-10
 venue: 'IEEE Open Journal of Signal Processing'
