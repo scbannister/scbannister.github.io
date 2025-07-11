@@ -1,6 +1,7 @@
 ---
 title: "‘With friends like these’: Exploring pseudo-social music listening experiences"
 collection: publications
+category: manuscripts
 permalink: /publication/2025-01-15-bannister-etal-2025
 date: 2025-01-15
 venue: 'Music and Science'
