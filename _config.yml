@@ -22,7 +22,7 @@ repository               : "scbannister/scbannister.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "Bannister_Photo.jpg"
   name             : "Dr Scott Bannister"
   pronouns         : # example: "she/her"  
   bio              : "Music and Psychology researcher, expert in emotion"
