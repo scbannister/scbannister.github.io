@@ -7,8 +7,8 @@ redirect_from:
   - /about.html
 ---
 
-I am a music psychologist, currently working at a Postdoctoral Research Fellow at the School of Music, University of Leeds. Much of my ongoing work is on the Cadenza Project, aiming to improve music listening experiences for those with a hearing loss, through open machine learning challenges and music perception research.
+I am a music psychology and hearing science researcher, currently working as a Research Associate at the Manchester Centre for Audiology and Deafness (ManCAD), University of Manchester. Much of my ongoing work focusses on the everyday listening intentions of hearing aid users, and experiences of music from the perspective of hearing loss.
 
 Research Interests and Expertise
 ======
-My research expertise covers music and emotion, perception, social cognition, psychophysiology, and psychoacoustics. I am especially interested in how music can induce emotional goosebumps or chills experiences in listeners, and how music may be used by listeners as a surrogate for social interaction or social relationships.
+My research expertise covers music and emotion, perception, social cognition, psychophysiology, and psychoacoustics. I am especially interested in how music can induce strong emotions (such as emotional goosebumps or chills experiences), metascience of music psychology research, and how hearing aid signal processing can be improved for experiences of music listening and performance.
