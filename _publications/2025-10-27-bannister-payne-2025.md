@@ -1,6 +1,7 @@
 ---
 title: "A survey of musical chills experiences while performing music"
 collection: publications
+category: manuscripts
 permalink: /publication/2025-10-27-bannister-payne-2025
 date: 2025-10-27
 venue: 'Psychology of Music'
